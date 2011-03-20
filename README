@@ -1,0 +1,12 @@
+Skeleton to continue the marking guess based exercise.
+Here there is the possiblity to test almost all the system mocking io collaborator and the random generator.
+
+Dynamic for the exercise:
+make available the empty "walking skeleton" (just with the "Welcome to Master Mind. Please make a guess:" message expectation).
+
+Then proceed with the marker algorithm.
+Then when comes the "false double match" help teams to actually move from acceptance to actual unit tests. Then fixing the false double match and so on.
+
+Possibilities: add technical stories like: make the count matches independent from the "present mark as a 'p'/'m' sequence.
+
+
